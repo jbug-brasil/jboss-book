@@ -1,0 +1,12 @@
+=== Introdução ao mundo JBoss
+
+// by Ricardo Martinelli (IRC: rmartinelli, e-mail: rmartine@redhat.com)
+
+Muito se fala em JBoss e sempre associamos ao Servidor de Aplicações, mas o JBoss é isso mesmo? Apenas um Servidor de Aplicações?
+Com a recente mudança do nome do projeto de JBoss para Wildfly, percebe-se que havia muita confusão sobre o nome em si. Antigamente,
+o nome JBoss representava:
+
+* O nome do projeto da comunidade (em http://www.jboss.org)
+* O nome do produto oferecido pela Red Hat (http://www.redhat.com)
+* O nome da família de projetos da comunidade (http://jboss.org/projects)
+* O nome da comunidade (http://community.jboss.org)
